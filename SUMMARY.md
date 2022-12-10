@@ -12,7 +12,7 @@
 
 ## 论文发表
 
-* [Untitled](lun-wen-fa-biao/untitled.md)
+* [Asymptotics for value at risk and conditional tail expectation of a portfolio loss](lun-wen-fa-biao/asymptotics-for-value-at-risk-and-conditional-tail-expectation-of-a-portfolio-loss.md)
 
 ## 专利发表
 
