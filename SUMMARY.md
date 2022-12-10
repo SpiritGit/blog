@@ -13,6 +13,11 @@
 ## 论文发表
 
 * [Asymptotics for value at risk and conditional tail expectation of a portfolio loss](lun-wen-fa-biao/asymptotics-for-value-at-risk-and-conditional-tail-expectation-of-a-portfolio-loss.md)
+* [Second Order Asymptotics for Infinite-Time Ruin Probability in a Compound Renewal Risk Model](lun-wen-fa-biao/second-order-asymptotics-for-infinite-time-ruin-probability-in-a-compound-renewal-risk-model.md)
+* [Asymptotic Behavior of Ruin Probabilities in an Insurance Risk Model with Quasi-Asymptotically Indep](lun-wen-fa-biao/asymptotic-behavior-of-ruin-probabilities-in-an-insurance-risk-model-with-quasi-asymptotically-indep.md)
+* [Finite-time ruin probability of a perturbed risk model with dependent main and delayed claims](lun-wen-fa-biao/finite-time-ruin-probability-of-a-perturbed-risk-model-with-dependent-main-and-delayed-claims.md)
+* [Asymptotic fnite‐time ruin probabilities in a dependent bidimensional renewal risk model with subexp](lun-wen-fa-biao/asymptotic-fnite-time-ruin-probabilities-in-a-dependent-bidimensional-renewal-risk-model-with-subexp.md)
+* [具有复杂相依结构的连续时保险风险模型的渐近问题研究](lun-wen-fa-biao/ju-you-fu-za-xiang-yi-jie-gou-de-lian-xu-shi-bao-xian-feng-xian-mo-xing-de-jian-jin-wen-ti-yan-jiu.md)
 
 ## 专利发表
 
