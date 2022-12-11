@@ -27,7 +27,7 @@
 
 ## 专利发表
 
-* [一种多来源路侧交通观测数据的实时融合 方法](zhuan-li-fa-biao/yi-zhong-duo-lai-yuan-lu-ce-jiao-tong-guan-ce-shu-ju-de-shi-shi-rong-he-fang-fa.md)
+* [一种多来源路侧交通观测数据的实时融合方法](zhuan-li-fa-biao/yi-zhong-duo-lai-yuan-lu-ce-jiao-tong-guan-ce-shu-ju-de-shi-shi-rong-he-fang-fa.md)
 
 ## 论文发表
 
