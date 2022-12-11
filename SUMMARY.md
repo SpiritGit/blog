@@ -1,6 +1,6 @@
 # Table of contents
 
-* [who am i](README.md)
+* [Who Am I](README.md)
 
 ## 技术分享
 
