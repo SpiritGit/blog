@@ -1,7 +1,3 @@
----
-layout: editorial
----
-
 # pip
 
 ### pip安装
