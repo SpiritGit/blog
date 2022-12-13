@@ -1,5 +1,5 @@
 ---
-description: Pursue Passion  ·  Pursue Happiness  ·  Stay Hungry  ·  Stay Foolish
+description: Stay Geeky
 ---
 
 # Who Am I
