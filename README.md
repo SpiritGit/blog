@@ -1,5 +1,5 @@
 ---
-description: 做些改变世界的小事
+description: Pursue Passion  ·  Pursue Happiness  ·  Stay Hungry  ·  Stay Foolish
 ---
 
 # Who Am I
