@@ -20,6 +20,7 @@
 * [其他](ji-shu-fen-xiang/qi-ta/README.md)
   * [数据交换格式](ji-shu-fen-xiang/qi-ta/shu-ju-jiao-huan-ge-shi.md)
   * [Docker](ji-shu-fen-xiang/qi-ta/docker.md)
+  * [pdf2htmlex教程](ji-shu-fen-xiang/qi-ta/pdf2htmlex-jiao-cheng.md)
 
 ## 杂谈
 
