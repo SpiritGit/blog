@@ -26,20 +26,20 @@
 
 * [《黑客与画家》读书笔记](za-tan/hei-ke-yu-hua-jia-du-shu-bi-ji.md)
 
-## 专利发表
+## 我的专利
 
-* [智能交通](zhuan-li-fa-biao/zhi-neng-jiao-tong/README.md)
-  * [一种多来源路侧交通观测数据的实时融合方法](zhuan-li-fa-biao/yi-zhong-duo-lai-yuan-lu-ce-jiao-tong-guan-ce-shu-ju-de-shi-shi-rong-he-fang-fa.md)
+* [智能交通](wo-de-zhuan-li/zhi-neng-jiao-tong/README.md)
+  * [一种多来源路侧交通观测数据的实时融合方法](wo-de-zhuan-li/zhi-neng-jiao-tong/yi-zhong-duo-lai-yuan-lu-ce-jiao-tong-guan-ce-shu-ju-de-shi-shi-rong-he-fang-fa.md)
 
-## 论文发表
+## 我的论文
 
-* [精算](lun-wen-fa-biao/jing-suan/README.md)
-  * [Asymptotics for value at risk and conditional tail expectation of a portfolio loss](lun-wen-fa-biao/asymptotics-for-value-at-risk-and-conditional-tail-expectation-of-a-portfolio-loss.md)
-  * [Second Order Asymptotics for Infinite-Time Ruin Probability in a Compound Renewal Risk Model](lun-wen-fa-biao/second-order-asymptotics-for-infinite-time-ruin-probability-in-a-compound-renewal-risk-model.md)
-  * [Asymptotic Behavior of Ruin Probabilities in an Insurance Risk Model with Quasi-Asymptotically Indep](lun-wen-fa-biao/asymptotic-behavior-of-ruin-probabilities-in-an-insurance-risk-model-with-quasi-asymptotically-indep.md)
-  * [Finite-time ruin probability of a perturbed risk model with dependent main and delayed claims](lun-wen-fa-biao/finite-time-ruin-probability-of-a-perturbed-risk-model-with-dependent-main-and-delayed-claims.md)
-  * [Asymptotic fnite‐time ruin probabilities in a dependent bidimensional renewal risk model with subexp](lun-wen-fa-biao/asymptotic-fnite-time-ruin-probabilities-in-a-dependent-bidimensional-renewal-risk-model-with-subexp.md)
-  * [具有复杂相依结构的连续时保险风险模型的渐近问题研究](lun-wen-fa-biao/ju-you-fu-za-xiang-yi-jie-gou-de-lian-xu-shi-bao-xian-feng-xian-mo-xing-de-jian-jin-wen-ti-yan-jiu.md)
+* [精算](wo-de-lun-wen/jing-suan/README.md)
+  * [Asymptotics for value at risk and conditional tail expectation of a portfolio loss](wo-de-lun-wen/jing-suan/asymptotics-for-value-at-risk-and-conditional-tail-expectation-of-a-portfolio-loss.md)
+  * [Second Order Asymptotics for Infinite-Time Ruin Probability in a Compound Renewal Risk Model](wo-de-lun-wen/jing-suan/second-order-asymptotics-for-infinite-time-ruin-probability-in-a-compound-renewal-risk-model.md)
+  * [Asymptotic Behavior of Ruin Probabilities in an Insurance Risk Model with Quasi-Asymptotically Indep](wo-de-lun-wen/jing-suan/asymptotic-behavior-of-ruin-probabilities-in-an-insurance-risk-model-with-quasi-asymptotically-indep.md)
+  * [Finite-time ruin probability of a perturbed risk model with dependent main and delayed claims](wo-de-lun-wen/jing-suan/finite-time-ruin-probability-of-a-perturbed-risk-model-with-dependent-main-and-delayed-claims.md)
+  * [Asymptotic fnite‐time ruin probabilities in a dependent bidimensional renewal risk model with subexp](wo-de-lun-wen/jing-suan/asymptotic-fnite-time-ruin-probabilities-in-a-dependent-bidimensional-renewal-risk-model-with-subexp.md)
+  * [具有复杂相依结构的连续时保险风险模型的渐近问题研究](wo-de-lun-wen/jing-suan/ju-you-fu-za-xiang-yi-jie-gou-de-lian-xu-shi-bao-xian-feng-xian-mo-xing-de-jian-jin-wen-ti-yan-jiu.md)
 
 ## 转载与分享
 
