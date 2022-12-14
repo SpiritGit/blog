@@ -20,12 +20,15 @@
 * [其他](ji-shu-fen-xiang/qi-ta/README.md)
   * [数据交换格式](ji-shu-fen-xiang/qi-ta/shu-ju-jiao-huan-ge-shi.md)
   * [Docker](ji-shu-fen-xiang/qi-ta/docker.md)
-  * [pdf2htmlex教程](ji-shu-fen-xiang/qi-ta/pdf2htmlex-jiao-cheng.md)
 
 ## 杂谈
 
-* [《黑客与画家》读书笔记](za-tan/hei-ke-yu-hua-jia-du-shu-bi-ji.md)
-* [基于reveal-md制作幻灯片](za-tan/ji-yu-revealmd-zhi-zuo-huan-deng-pian.md)
+* [制作blog & ebook & slide](za-tan/zhi-zuo-blog-ebook-slide/README.md)
+  * [基于reveal-md制作幻灯片](za-tan/zhi-zuo-blog-ebook-slide/ji-yu-revealmd-zhi-zuo-huan-deng-pian.md)
+  * [基于gitbook制作ebook\&blog](za-tan/zhi-zuo-blog-ebook-slide/ji-yu-gitbook-zhi-zuo-ebookblog.md)
+  * [发布你的页面](za-tan/zhi-zuo-blog-ebook-slide/fa-bu-ni-de-ye-mian.md)
+* [读书观影](za-tan/du-shu-guan-ying/README.md)
+  * [《黑客与画家》读书笔记](za-tan/du-shu-guan-ying/hei-ke-yu-hua-jia-du-shu-bi-ji.md)
 
 ## 我的专利
 
