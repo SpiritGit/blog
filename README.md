@@ -26,7 +26,7 @@ description: Stay Geeky
 * 记录生活
 * 分享知识
 
-📚 如果恰好是同行或对智能交通感兴趣，欢迎阅读我的[_**《智慧高速》电子书**_](https://its.xinzhi-wang.com/)。
+📚 如果恰好是同行或对智能交通感兴趣，欢迎阅读我的[_**《智能交通》电子书**_](https://its.xinzhi-wang.com/)。
 
 
 

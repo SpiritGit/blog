@@ -52,6 +52,7 @@
   * [2020年度全国主要城市通勤监测报告](zhuan-zai-yu-fen-xiang/2020-nian-du-quan-guo-zhu-yao-cheng-shi-tong-qin-jian-ce-bao-gao.md)
   * [面向自动驾驶的车路协同关键技术与展望](zhuan-zai-yu-fen-xiang/zhi-neng-jiao-tong/mian-xiang-zi-dong-jia-shi-de-che-lu-xie-tong-guan-jian-ji-shu-yu-zhan-wang.md)
   * [智能交通：城市如何提高流动能力](zhuan-zai-yu-fen-xiang/zhi-neng-jiao-tong/zhi-neng-jiao-tong-cheng-shi-ru-he-ti-gao-liu-dong-neng-li.md)
+  * [智慧公路技术白皮书](zhuan-zai-yu-fen-xiang/zhi-neng-jiao-tong/zhi-hui-gong-lu-ji-shu-bai-pi-shu.md)
 * [人工智能](zhuan-zai-yu-fen-xiang/ren-gong-zhi-neng/README.md)
   * [大规模地球科学知识图谱构建与共享应用框架研究与实践](zhuan-zai-yu-fen-xiang/da-gui-mo-di-qiu-ke-xue-zhi-shi-tu-pu-gou-jian-yu-gong-xiang-ying-yong-kuang-jia-yan-jiu-yu-shi-jian.md)
   * [一种准确而高效的领域知识图谱构建方法](zhuan-zai-yu-fen-xiang/yi-zhong-zhun-que-er-gao-xiao-de-ling-yu-zhi-shi-tu-pu-gou-jian-fang-fa.md)
