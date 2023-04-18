@@ -9,6 +9,7 @@
     * [退火算法](ji-shu-fen-xiang/tong-yong-suan-fa/tui-huo-suan-fa.md)
 * [计算机科学](zhi-shi-fen-xiang/ji-suan-ji-ke-xue/README.md)
   * [Python](ji-shu-fen-xiang/python/README.md)
+    * [DataFrame美化](zhi-shi-fen-xiang/ji-suan-ji-ke-xue/python/dataframe-mei-hua.md)
     * [pip](ji-shu-fen-xiang/python/pip.md)
   * [Java](ji-shu-fen-xiang/java/README.md)
     * [Maven](ji-shu-fen-xiang/java/maven.md)
