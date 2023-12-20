@@ -47,14 +47,11 @@
     * [定位技术](zhi-shi-fen-xiang/zhi-neng-jiao-tong/di-tu-yu-kong-jian-suan-fa/ding-wei-ji-shu.md)
 * [互联网图商](zhi-shi-fen-xiang/hu-lian-wang-tu-shang/README.md)
   * [数据引擎](zhi-shi-fen-xiang/hu-lian-wang-tu-shang/shu-ju-yin-qing/README.md)
-    * [SD地图](zhi-shi-fen-xiang/hu-lian-wang-tu-shang/shu-ju-yin-qing/sd-di-tu.md)
-    * [LD地图](zhi-shi-fen-xiang/hu-lian-wang-tu-shang/shu-ju-yin-qing/ld-di-tu.md)
-    * [HD地图](zhi-shi-fen-xiang/hu-lian-wang-tu-shang/shu-ju-yin-qing/hd-di-tu.md)
+    * [技术](zhi-shi-fen-xiang/hu-lian-wang-tu-shang/shu-ju-yin-qing/ji-shu.md)
   * [导航](zhi-shi-fen-xiang/hu-lian-wang-tu-shang/dao-hang.md)
   * [数据生态](zhi-shi-fen-xiang/hu-lian-wang-tu-shang/shu-ju-sheng-tai.md)
   * [商业化](zhi-shi-fen-xiang/hu-lian-wang-tu-shang/shang-ye-hua.md)
   * [地图开放平台](zhi-shi-fen-xiang/hu-lian-wang-tu-shang/di-tu-kai-fang-ping-tai.md)
-  * [通行能力](zhi-shi-fen-xiang/hu-lian-wang-tu-shang/tong-hang-neng-li.md)
 
 ## 杂谈
 
