@@ -53,6 +53,8 @@
   * [导航](zhi-shi-fen-xiang/hu-lian-wang-tu-shang/dao-hang.md)
   * [数据生态](zhi-shi-fen-xiang/hu-lian-wang-tu-shang/shu-ju-sheng-tai.md)
   * [商业化](zhi-shi-fen-xiang/hu-lian-wang-tu-shang/shang-ye-hua.md)
+  * [地图开放平台](zhi-shi-fen-xiang/hu-lian-wang-tu-shang/di-tu-kai-fang-ping-tai.md)
+  * [通行能力](zhi-shi-fen-xiang/hu-lian-wang-tu-shang/tong-hang-neng-li.md)
 
 ## 杂谈
 
