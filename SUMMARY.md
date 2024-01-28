@@ -8,6 +8,7 @@
   * [卡尔曼滤波](stem/shu-xue-yu-ying-yong-shu-xue/ka-er-man-lv-bo.md)
   * [最优化与运筹学](stem/shu-xue-yu-ying-yong-shu-xue/zui-you-hua-yu-yun-chou-xue/README.md)
     * [退火算法](stem/shu-xue-yu-ying-yong-shu-xue/zui-you-hua-yu-yun-chou-xue/tui-huo-suan-fa.md)
+  * [时间序列](stem/shu-xue-yu-ying-yong-shu-xue/shi-jian-xu-lie.md)
 * [计算机科学](stem/ji-suan-ji-ke-xue/README.md)
   * [Python](stem/ji-suan-ji-ke-xue/python/README.md)
     * [DataFrame美化](stem/ji-suan-ji-ke-xue/python/dataframe-mei-hua.md)
