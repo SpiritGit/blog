@@ -47,12 +47,15 @@
   * [地图与空间算法](stem/zhi-neng-jiao-tong/di-tu-yu-kong-jian-suan-fa/README.md)
     * [geohash算法](stem/zhi-neng-jiao-tong/di-tu-yu-kong-jian-suan-fa/geohash-suan-fa.md)
     * [定位技术](stem/zhi-neng-jiao-tong/di-tu-yu-kong-jian-suan-fa/ding-wei-ji-shu.md)
-* [互联网图商](stem/hu-lian-wang-tu-shang/README.md)
-  * [数据引擎](stem/hu-lian-wang-tu-shang/shu-ju-yin-qing.md)
-  * [导航](stem/hu-lian-wang-tu-shang/dao-hang.md)
-  * [数据生态](stem/hu-lian-wang-tu-shang/shu-ju-sheng-tai.md)
-  * [商业化](stem/hu-lian-wang-tu-shang/shang-ye-hua.md)
-  * [地图开放平台](stem/hu-lian-wang-tu-shang/di-tu-kai-fang-ping-tai.md)
+
+## 商业世界
+
+* [互联网图商](shang-ye-shi-jie/hu-lian-wang-tu-shang/README.md)
+  * [数据引擎](shang-ye-shi-jie/hu-lian-wang-tu-shang/shu-ju-yin-qing.md)
+  * [导航](shang-ye-shi-jie/hu-lian-wang-tu-shang/dao-hang.md)
+  * [数据生态](shang-ye-shi-jie/hu-lian-wang-tu-shang/shu-ju-sheng-tai.md)
+  * [商业化](shang-ye-shi-jie/hu-lian-wang-tu-shang/shang-ye-hua.md)
+  * [地图开放平台](shang-ye-shi-jie/hu-lian-wang-tu-shang/di-tu-kai-fang-ping-tai.md)
 
 ## 文史哲
 
