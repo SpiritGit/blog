@@ -1,10 +1,8 @@
 # Table of contents
 
-* [Who Am I](README.md)
-
 ## STEM
 
-* [数学与应用数学](stem/shu-xue-yu-ying-yong-shu-xue/README.md)
+* [数学与应用数学](README.md)
   * [卡尔曼滤波](stem/shu-xue-yu-ying-yong-shu-xue/ka-er-man-lv-bo.md)
   * [最优化与运筹学](stem/shu-xue-yu-ying-yong-shu-xue/zui-you-hua-yu-yun-chou-xue/README.md)
     * [退火算法](stem/shu-xue-yu-ying-yong-shu-xue/zui-you-hua-yu-yun-chou-xue/tui-huo-suan-fa.md)
@@ -66,9 +64,9 @@
 
 * [Page 1](zheng-zhi-jing-ji-jin-rong/page-1.md)
 
-## 旅行的意义
+## 旅行
 
-* [Page 2](lv-hang-de-yi-yi/page-2.md)
+* [Page 2](lv-hang/page-2.md)
 
 ## 我的论文&专利
 
