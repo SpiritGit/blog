@@ -4,6 +4,7 @@
 
 * [数学与应用数学](README.md)
   * [卡尔曼滤波](stem/shu-xue-yu-ying-yong-shu-xue/ka-er-man-lv-bo.md)
+  * [HMM](stem/shu-xue-yu-ying-yong-shu-xue/hmm.md)
   * [最优化与运筹学](stem/shu-xue-yu-ying-yong-shu-xue/zui-you-hua-yu-yun-chou-xue/README.md)
     * [退火算法](stem/shu-xue-yu-ying-yong-shu-xue/zui-you-hua-yu-yun-chou-xue/tui-huo-suan-fa.md)
   * [时间序列](stem/shu-xue-yu-ying-yong-shu-xue/shi-jian-xu-lie.md)
